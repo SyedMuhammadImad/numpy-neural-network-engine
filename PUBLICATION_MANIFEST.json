@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-08",
+  "title": "Manual neural-network classification and regression project",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5575a0fbcfc4bfb343f457121a833c590363402fe900e1f75c6a3e06cca10807",
+      "bytes": 87
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "95bb99db4659630a6b7fa345fbc25577b4873ca5300380837722ac7c414a08ca",
+      "bytes": 509
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "101feb90cdb38de3b8913e853444d3fca3724ca61c9edcf4e0fed0d33818e03c",
+      "bytes": 8227
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "ecd9427f84d71be75e6d4e8d6776bff19f2d696a1ded910b9e1e7ceb9ac10385",
+      "bytes": 219961
+    },
+    {
+      "path": "network.py",
+      "sha256": "e1251bafa206368ff799318413c94b32822bf6633c691131998c0142088badb2",
+      "bytes": 9686
+    },
+    {
+      "path": "project.ipynb",
+      "sha256": "ba135791aee7ef996069058f05719db5e29aa191a88012444dc8baa16c577a8e",
+      "bytes": 2657
+    },
+    {
+      "path": "README.md",
+      "sha256": "5767d9bccf1d3c623880d7d946785055f5d7be3b0427fb047d9601316c442f2a",
+      "bytes": 4683
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "988cf4c50fa4ad23526e9e6b247d7ce373df29978bfa446c73d7d0d6bafe0404",
+      "bytes": 86
+    },
+    {
+      "path": "test_network.py",
+      "sha256": "0ac5768646fcd60a13ca386a7e64320016d85c2447b4b2b6997ef176ff64433e",
+      "bytes": 3205
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "59ded276a145aa473b517a671bc102d89770c9ea81dcc3b482f88697b1e9d639",
+      "bytes": 1168
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "2654103253552193aee48120f3a20b86e31b129aba8f67eb1518d8d6077bc36b",
+      "bytes": 917
+    }
+  ]
+}
